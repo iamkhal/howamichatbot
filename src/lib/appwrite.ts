@@ -7,5 +7,5 @@ const client = new Client()
 export const account = new Account(client);
 export const databases = new Databases(client);
 
-export const CHAT_HISTORY_COLLECTION = 'chat_history';
+export const CHAT_HISTORY_COLLECTION = '674d2c930001fe0f847d';
 export const DATABASE_ID = import.meta.env.VITE_APPWRITE_DATABASE_ID;

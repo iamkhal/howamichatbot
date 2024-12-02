@@ -4,7 +4,7 @@ export function Logo() {
       <img 
         src="/HOWAMiLogo.png"
         alt="Howami"
-        className="w-8 h-8"
+        className="w-12 h-8"
       />
     </div>
   );
